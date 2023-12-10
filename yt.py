@@ -411,7 +411,7 @@ class Main:
 		print("")
 		print("\033[1;36m     UNSUSCRIBE KARNE WALON KA APROVEL URA DEYA JAIGA")
 		print("")
-		print("\033[1;32m [1] First You Subscribe Channel")
+		print("\033[1;32m [1] First You Follow and request my fb id")
 		print("\033[1;33m [2] Exit")
 		print("")
 		ALIYAN = input("\n\033[1;36m  Chose ==> \033[1;32m")
@@ -421,7 +421,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif ALIYAN in ["1", "01"]:
-			os.system("xdg-open https://youtu.be/gxjhqkJL_h0")
+			os.system("xdg-open https://www.facebook.com/Mirazhosain772")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Apna nam type kro")
